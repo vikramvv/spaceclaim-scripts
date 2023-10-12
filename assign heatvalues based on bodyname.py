@@ -3,7 +3,7 @@ Heat Source Assignment Script for Ansys Discovery
 
 This Python script assigns heat sources to different components in an Ansys Discovery model and calculates the total heat generated.
 
-Author: Your Name
+Author: Vikramv
 License: MIT License (https://opensource.org/licenses/MIT)
 
 API Version: V21
