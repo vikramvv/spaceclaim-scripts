@@ -3,7 +3,7 @@ Material Assignment Script for Ansys Discovery
 
 This Python script assigns materials to different components in an Ansys Discovery model. It also sets object visibility for certain components.
 
-Author: Your Name
+Author: vikramv
 License: MIT License (https://opensource.org/licenses/MIT)
 
 API Version: V21
